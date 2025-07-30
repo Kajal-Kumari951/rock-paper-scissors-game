@@ -13,7 +13,7 @@ A fun and interactive **Rock, Paper, Scissors** game built using HTML, CSS, and 
 
 ## 🔗 Live Demo
 
-👉 [Play Now][🔗 Play Tic Tac Toe Game](https://Kajal-Kumari951.github.io/rock-paper-scissors-game/project1.html)
+👉 [Play Now][🔗 Play Tic Tac Toe Game](https://Kajal-Kumari951.github.io/rock-paper-scissors-game/)
 
 ---
 
