@@ -4,6 +4,19 @@ A fun and interactive **Rock, Paper, Scissors** game built using HTML, CSS, and 
 
 ---
 
+## 📸 Screenshot
+
+![Game Screenshot](./assets/screenshot.png)
+![Game Screenshot](./assets/screenshot1.png)
+
+---
+
+## 🔗 Live Demo
+
+👉 [Play Now][🔗 Play Tic Tac Toe Game](https://Kajal-Kumari951.github.io/rock-paper-scissors-game/project1.html)
+
+---
+
 ## ✨ Features
 
 - Choose between Rock 🪨, Paper 📄, or Scissors ✂️
